@@ -1,3 +1,12 @@
+# Receipts mockup interface Dynamic Business Central 365
+
+![](https://raw.githubusercontent.com/KomtoNantarwath/dbc-receipts-mockup/main/Page1.png)
+![](https://raw.githubusercontent.com/KomtoNantarwath/dbc-receipts-mockup/main/Page2.png)
+![](https://raw.githubusercontent.com/KomtoNantarwath/dbc-receipts-mockup/main/Page3.png)
+![](https://raw.githubusercontent.com/KomtoNantarwath/dbc-receipts-mockup/main/Page4.png)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
