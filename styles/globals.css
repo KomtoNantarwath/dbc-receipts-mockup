@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@100;200;300;400;500;600;700&display=swap');
+
+.html,
+.body {
+  font-family: 'Prompt', sans-serif !important;
+}
+
+.image-center .img {
+  margin: 0px auto;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+span,
+a,
+button {
+  font-family: 'Prompt', sans-serif !important;
+}
+
+.Warpper {
+  font-family: 'Prompt', sans-serif !important;
+  padding-top: 100px;
+  height: 100vh;
+  background: linear-gradient(180deg, #667EEA 0%, #764BA2 100%);
+}
+
+.Warpper-receiptsV2 {
+  background: white;
+  min-height: 100vh;
+  margin-bottom: 90px;
+}
+
+
+.card-atta-hrd {
+  border: 1px solid rgba(235, 235, 235, 0.8);
+  border-radius: 4px;
+}
+
+.card-atta {
+  background: white !important;
+}
+
+.Hrd-atta {
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.15);
+}
+
+.Wapper-footer {
+  border: 1px solid rgba(235, 235, 235, 0.8);
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  height: 85px;
+  width: 100%;
+  padding: 10px;
+  background: white;
+  box-shadow: 0px -2px 4px rgba(0, 0, 0, 0.15);
+}
